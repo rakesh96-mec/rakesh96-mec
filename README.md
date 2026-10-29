@@ -1,83 +1,63 @@
-# Rakesh Nuggehalli Ramesh
+# Hi, I'm Rakesh 👋
 
-**Mechatronics Engineer | Robotics & Autonomous Systems | Sensor Fusion | Computer Vision**
+### Mechatronics Engineer | Robotics & Autonomous Systems | Computer Vision & Sensor Perception
 
-Master's student in Mechatronics at Ravensburg-Weingarten University of Applied Sciences (RWU), Germany, with a focus on robotics, autonomous systems, sensor fusion, control, computer vision and hands-on hardware development.
+I'm pursuing a Master's in Mechatronics at RWU in Germany, with a technical focus on robotic systems, computer vision, sensor data processing, and autonomous perception.
 
-## Research Interests
+My portfolio combines computer vision experiments, LiDAR/RADAR processing, robotics programming, machine learning, and industrial automation. It includes both project implementations and clearly identified academic coursework.
 
-- Robotics and Autonomous Systems
-- Multi-Sensor Fusion and Perception
-- LiDAR–Camera Sensor Fusion
-- UAV Systems and Autonomous Robotics
-- Reliability and Fault-Tolerant Control
-- Robot Dynamics and Control
-- Computer Vision
-- Real-Time Robotic Systems
+## 🔧 Technical Skills
 
-## Current Work
+- **Programming:** Python, MATLAB
+- **Computer Vision:** OpenCV, YOLO, ArUco markers, camera calibration, pose and distance estimation
+- **Robotics:** ROS 2, `rclpy`, `turtlesim`, KUKA robot programming and simulation
+- **Perception:** LiDAR, RADAR, point-cloud processing, sensor-based object detection and localization
+- **Modelling & Simulation:** MATLAB, Simulink, numerical ODE simulation, controller design
+- **Machine Learning:** CNNs, image classification, object detection
+- **Embedded & Systems:** Raspberry Pi, sensor integration, hardware-oriented prototyping
 
-### LiDAR–Camera Sensor Fusion for ADAS
+## 🚀 Featured Projects
 
-Developing a multi-sensor perception and safety prototype using a robotic vehicle platform, LiDAR, camera and NVIDIA Jetson Orin Nano.
+### Computer Vision & Sensor Perception
+Experiments in image processing, ArUco-based pose estimation, YOLO object detection, distance estimation, and LiDAR–camera perception using KITTI data.
 
-Current work includes:
+[View repository →](https://github.com/rakesh96-mec/Computer_Vision)
 
-- Camera and LiDAR integration
-- Sensor calibration and spatial alignment
-- Low-level sensor fusion
-- Object detection using YOLO and OpenCV
-- Real-time perception on embedded hardware
-- Safety-oriented obstacle detection and vehicle stopping
+### LiDAR and RADAR Perception
+Sensor-data processing and perception experiments exploring object detection, localization, distance estimation, and evaluation.
 
-**Technologies:** Python, OpenCV, YOLO, ROS 2, LiDAR, NVIDIA Jetson Orin Nano
+[View repository →](https://github.com/rakesh96-mec/Sensor-Fusion-with-LIDAR-and-RADAR)
 
-## Selected Projects
+### CNN-Based Skin Lesion Classification
+An earlier mechatronics engineering project exploring CNN-based image classification in a portable Raspberry Pi prototype.
 
-### Robotics & Sensor Fusion
-LiDAR, radar, camera perception, calibration, sensor processing and autonomous-system development.
+[View repository →](https://github.com/rakesh96-mec/CNN-based-skin-cancer-detection)
 
-### Computer Vision
-Object detection, ArUco-based pose estimation, image processing and machine-learning applications.
+## 🎓 Academic Coursework & Technical Exercises
 
-### Embedded Systems
-STM32, Arduino, Raspberry Pi and sensor-based hardware prototypes involving measurement, communication and control.
+- **ROS 2 Turtle Chase and Runner:** Python nodes, pose feedback, velocity commands, and basic pursuit control.  
+  [Repository](https://github.com/rakesh96-mec/ROS2-Turtle-Chase-and-Runner)
 
-## Technical Skills
+- **KUKA Industrial Robotics:** Tool and base calibration, robot motion, simulation, and sensor-driven ball sorting.  
+  [Repository](https://github.com/rakesh96-mec/KUKA-Industrial-Robotics)
 
-**Programming:** Python, C  
-**Robotics:** ROS 2, Gazebo, KUKA.Sim  
-**Modelling & Control:** MATLAB, Simulink  
-**Computer Vision:** OpenCV, YOLO, ArUco  
-**Perception:** LiDAR, Sensor Fusion, Object Detection  
-**Embedded:** STM32, STM32CubeMX, Arduino, Raspberry Pi, NVIDIA Jetson Orin Nano  
-**Engineering:** Siemens NX, ANSYS/FEM, LabVIEW  
-**Development:** Git, Docker, Linux
+- **Python Laser Scan Processing:** Processing saved range-scan data, identifying the closest valid reading, and calculating its angle.  
+  [Repository](https://github.com/rakesh96-mec/Python-Laser-Scan-Processing)
 
-## Education
+- **MATLAB & Simulink:** Numerical simulation, spring–pendulum modelling, DC motor modelling, controller design, and S-functions.  
+  [Repository](https://github.com/rakesh96-mec/MATLAB-Simulink)
 
-**M.Sc. Mechatronics**  
-Ravensburg-Weingarten University of Applied Sciences, Germany  
-*Expected March 2027*
+## 🎯 Areas of Interest
 
-**B.E. Mechatronics Engineering**  
-The Oxford College of Engineering, VTU, India
+- Autonomous systems and robotic perception
+- Automotive sensing and ADAS
+- Camera, LiDAR, and RADAR-based perception
+- Sensor fusion and object localization
+- Robotics software and industrial automation
 
-## Links
+I'm interested in technically challenging engineering projects that connect software, sensing, and real-world systems.
 
-[LinkedIn](#) • [Email](mailto:rakeshnr2024@gmail.com)
+## 📫 Connect
 
-<!--
-**rakesh96-mec/rakesh96-mec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub:** [rakesh96-mec](https://github.com/rakesh96-mec)
+- **LinkedIn:** Add your LinkedIn profile URL here
