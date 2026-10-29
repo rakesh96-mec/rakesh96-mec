@@ -60,4 +60,4 @@ I'm interested in technically challenging engineering projects that connect soft
 ## 📫 Connect
 
 - **GitHub:** [rakesh96-mec](https://github.com/rakesh96-mec)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** linkedin.com/in/rakesh-nuggehalli-ramesh-979566269
